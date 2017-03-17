@@ -1,0 +1,2 @@
+# Billmike
+rugged smartphone
